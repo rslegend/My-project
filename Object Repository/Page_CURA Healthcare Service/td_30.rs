@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_CURA Healthcare_menu-toggle</name>
+   <name>td_30</name>
    <tag></tag>
-   <elementGuidId>d3baea01-14ac-4ab6-ba00-67b35036c92e</elementGuidId>
+   <elementGuidId>59815cd3-5698-4ad0-b076-6f38547dc599</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='menu-toggle']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[34]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#menu-toggle</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>57c045c5-fc72-4ada-8c3f-9adb6b5707b0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>menu-toggle</value>
-      <webElementGuid>832664fa-ad67-4f67-bc46-6302e5c7f83a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>#</value>
-      <webElementGuid>a6d8de28-6822-454d-81d1-fa689cdd7a39</webElementGuid>
+      <value>td</value>
+      <webElementGuid>c9d10139-56c4-4b11-ae5b-0dd04c0c33a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-dark btn-lg toggle</value>
-      <webElementGuid>0bf208df-60c9-4858-9bf5-0caa1e461094</webElementGuid>
+      <value>day</value>
+      <webElementGuid>b9f69002-5a7a-4728-be79-9241ad24f9bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>4f6eb179-e1d6-4ed9-becd-3fc06e16c5c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menu-toggle&quot;)</value>
-      <webElementGuid>4aae5f9a-a70d-4b3c-9dab-283b41119cb5</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[5]/td[@class=&quot;day&quot;]</value>
+      <webElementGuid>7f632831-1c13-4d76-94c2-f6c158b5dca9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[@id='menu-toggle']</value>
-      <webElementGuid>5ac878ed-7a8a-4b88-a9e6-f07fd0fb80fa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[34]</value>
+      <webElementGuid>9fe23d89-de43-4a85-8147-db08e536b9c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare'])[1]/preceding::a[2]</value>
-      <webElementGuid>773e077a-99cc-48fb-8988-874a6d78217e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[34]</value>
+      <webElementGuid>8739f30b-5dfe-41ea-8e01-a526fe480186</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::a[3]</value>
-      <webElementGuid>7f7d8160-bbdc-4eb6-8e90-517c8c43c50c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[9]</value>
+      <webElementGuid>d12fdaab-7c81-4826-a642-22a43c959f4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>8b2844a1-81b6-4f64-881a-89268e7a64b2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[9]</value>
+      <webElementGuid>e16bab1b-9684-4556-9ec7-a8b422adc47d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a</value>
-      <webElementGuid>da35dac4-6b4c-40f2-9845-539813b48db3</webElementGuid>
+      <value>//tr[5]/td[6]</value>
+      <webElementGuid>25080748-9334-47c2-b941-a1a43e5e8a88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'menu-toggle' and @href = '#']</value>
-      <webElementGuid>8777c238-7252-4482-a020-4790e3b5811a</webElementGuid>
+      <value>//td[(text() = '30' or . = '30')]</value>
+      <webElementGuid>a0f05db9-821a-4659-add6-313042a9a3d6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

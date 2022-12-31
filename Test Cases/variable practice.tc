@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>variable practice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2082d7f5-432a-4c87-abcd-353198017138</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>d78e5e29-a2f2-4d2e-8d77-be945b86a9b0</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c703b31-529d-4abc-93e6-42ccae9e7d29</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab7a19dc-f827-46fc-b4f4-5b222d799db1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5b72a586-a925-47ed-afd3-76cf63492bd8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4f1b1ec9-53ed-4743-85ba-53296d96318f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c119721-e042-45a2-868a-dd7160d49858</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>4c703b31-529d-4abc-93e6-42ccae9e7d29</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>ab7a19dc-f827-46fc-b4f4-5b222d799db1</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tokyo CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>5b72a586-a925-47ed-afd3-76cf63492bd8</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4f1b1ec9-53ed-4743-85ba-53296d96318f</id>
+      <masked>false</masked>
+      <name>visitdate</name>
+   </variable>
+   <variable>
+      <defaultValue>'urgent please'</defaultValue>
+      <description></description>
+      <id>4c119721-e042-45a2-868a-dd7160d49858</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

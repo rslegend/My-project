@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf94f294-cae6-4234-bf4c-95891dacb313</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>88829774-2ce2-4360-8433-7b70f8d73c28</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>88829774-2ce2-4360-8433-7b70f8d73c28</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>e3b4de8f-3a71-4ed1-a0c0-bbc67d8429c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>88829774-2ce2-4360-8433-7b70f8d73c28</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>a96d1515-793c-4829-8619-8ea2c232a94f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doedss'</defaultValue>
+      <description></description>
+      <id>e3b4de8f-3a71-4ed1-a0c0-bbc67d8429c8</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>a96d1515-793c-4829-8619-8ea2c232a94f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

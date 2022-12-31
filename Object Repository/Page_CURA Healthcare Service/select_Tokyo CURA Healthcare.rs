@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Tokyo CURA Healthcare Center        _5b4107</name>
+   <name>select_Tokyo CURA Healthcare</name>
    <tag></tag>
    <elementGuidId>697dd7bd-0f02-47e5-b6e9-c375d0a9e19b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='combo_facility']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#combo_facility</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;combo_facility&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>e05ead7e-9cef-4563-acbf-a6e3b66b4acc</webElementGuid>
+      <webElementGuid>5a9c21d7-edc1-460b-9619-a742e3587d91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>combo_facility</value>
-      <webElementGuid>82ebe354-0466-459d-9dbf-f393ab5a8772</webElementGuid>
+      <webElementGuid>3d232bf2-efeb-480d-8b86-c8e4646a2231</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>facility</value>
-      <webElementGuid>9e9ab2a2-fc2f-4f13-b4d0-41724dff31bc</webElementGuid>
+      <webElementGuid>b11163da-9aee-4ec5-972f-0461d5addbb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>a38beb68-e22d-487b-880a-cdcb26b0add7</webElementGuid>
+      <webElementGuid>6d24e026-d038-4919-8ed8-8c0e97fe28d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
                             Hongkong CURA Healthcare Center
                             Seoul CURA Healthcare Center
                         </value>
-      <webElementGuid>a8354b60-3856-4e1e-9bb6-6a321bcb9fa6</webElementGuid>
+      <webElementGuid>9deb1217-def7-4a10-b52d-fa8201874306</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;combo_facility&quot;)</value>
-      <webElementGuid>d13398a6-c555-4428-bf37-1dc83a5e6e92</webElementGuid>
+      <webElementGuid>550c1396-2e86-4594-bec6-884928dd30cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='combo_facility']</value>
-      <webElementGuid>894808b2-d751-4800-9a2a-a13c8141e5c6</webElementGuid>
+      <webElementGuid>82dc9603-a6ad-461e-99f1-a9b4c6954931</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='appointment']/div/div/form/div/div/select</value>
-      <webElementGuid>ddcbf341-8f25-467d-a839-d7605b1e6d33</webElementGuid>
+      <webElementGuid>8345d13f-0864-443e-88db-be21c14a3b96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/following::select[1]</value>
-      <webElementGuid>a443e464-a5e5-4225-8e02-dfa8b8332f08</webElementGuid>
+      <webElementGuid>2814a034-7532-45c8-b083-c92b3b5c67bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[2]/following::select[1]</value>
-      <webElementGuid>5ae64aa2-35ac-48f0-a689-054b9d48b36a</webElementGuid>
+      <webElementGuid>b51b311b-6c30-4c25-a3f2-dc7201ee1a59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/preceding::select[1]</value>
-      <webElementGuid>49941338-c0b3-44da-8c65-d9959160d01a</webElementGuid>
+      <webElementGuid>f4d18562-85fb-4848-841d-74aa7e4fd27c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,22 +114,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>6c3a5f7f-fd43-4de7-a11e-4008651786f4</webElementGuid>
+      <webElementGuid>069f8965-e90e-4fd2-8514-47515f4e1ed7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//select[@id = 'combo_facility' and @name = 'facility' and (text() = '
-                            Tokyo CURA Healthcare Center
-                            Hongkong CURA Healthcare Center
-                            Seoul CURA Healthcare Center
-                        ' or . = '
-                            Tokyo CURA Healthcare Center
-                            Hongkong CURA Healthcare Center
-                            Seoul CURA Healthcare Center
-                        ')]</value>
-      <webElementGuid>b67cbd75-1508-440f-9d43-52bf41e52996</webElementGuid>
+      <value></value>
+      <webElementGuid>e1e8e4c6-06f0-468f-a710-7d36a1e9c032</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

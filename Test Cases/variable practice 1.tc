@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>variable practice 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df2a0c33-56a4-4b96-912d-db990f9ce3ed</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>59cf41c4-146e-4cb7-ad52-54eb2268efb5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>1cac9e14-a4db-4e78-adf4-97b312086f38</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tokyo CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>d9f3d567-c073-4c49-a31c-22dee6aceaeb</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'14/12/2022'</defaultValue>
+      <description></description>
+      <id>b89df3ff-b420-44fc-b7bc-9c60d3b26bae</id>
+      <masked>false</masked>
+      <name>visitdate</name>
+   </variable>
+   <variable>
+      <defaultValue>'emergency'</defaultValue>
+      <description></description>
+      <id>4c914ed6-8427-4bcd-96ae-98d9cf2183e9</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>
